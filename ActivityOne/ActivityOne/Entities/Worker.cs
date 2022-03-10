@@ -3,19 +3,20 @@ using ActivityOne.Functions;
 using System.Collections.Generic;
 using ActivityOne.Entities;
 
+
 namespace ActivityOne.Entities
 {
     class Worker
     {
         List<HourContract> ListContracts = new List<HourContract>();
-        private Department WorkerDepartment;
+        private Department department = new Department();
         public string Name { get; private set; }
-        public WorkerLevel Level { get; set; }
-        public double BaseSalary { get; set; }
+        public WorkerLevel Level { get; private set; }
+        public double BaseSalary { get; private set; }
 
         public Worker(string name, WorkerLevel level, double baseSalary, string department)
         {
-            WorkerDepartment.Name = department;
+            this.department.Name = department;
             Name = name;
             Level = level;
             BaseSalary = baseSalary;
@@ -23,7 +24,8 @@ namespace ActivityOne.Entities
 
         public override string ToString()
         {
-            return $"Name: {Name}, Level: {Level} and Base Salary {BaseSalary}";
+            return $"Name: {Name}, Level: {Level} and Base Salary {BaseSalary}" +
+                $"\nDepartment {department.Name}.";
         }
 
         public void AddContract(HourContract contract )
@@ -39,17 +41,21 @@ namespace ActivityOne.Entities
             System.Console.WriteLine("Contract Removed!");
         }
 
-        // ainda terminar
-        public double Income(int year, int mes)
+        
+        public double Income(int month, int year)
         {
-            double resultado;
+            double resultado = 0;
             foreach(HourContract c in ListContracts)
             {
-                if () { }
-
-
+                if (ListContracts.Count !=0 &&  c.Date.Year == year && c.Date.Month == month) {
+                    resultado += c.TotalValue();
+                }
+                else { System.Console.WriteLine("No exists contract signatures.");}
             }
+            return resultado;
         }
+
+
 
     }
 }
