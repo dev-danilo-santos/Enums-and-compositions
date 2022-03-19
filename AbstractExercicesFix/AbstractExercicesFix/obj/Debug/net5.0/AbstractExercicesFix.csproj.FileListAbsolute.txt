@@ -1,0 +1,16 @@
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\bin\Debug\net5.0\AbstractExercicesFix.exe
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\bin\Debug\net5.0\AbstractExercicesFix.deps.json
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\bin\Debug\net5.0\AbstractExercicesFix.runtimeconfig.json
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\bin\Debug\net5.0\AbstractExercicesFix.runtimeconfig.dev.json
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\bin\Debug\net5.0\AbstractExercicesFix.dll
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\bin\Debug\net5.0\ref\AbstractExercicesFix.dll
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\bin\Debug\net5.0\AbstractExercicesFix.pdb
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.csproj.AssemblyReference.cache
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.AssemblyInfoInputs.cache
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.AssemblyInfo.cs
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.csproj.CoreCompileInputs.cache
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.dll
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\ref\AbstractExercicesFix.dll
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.pdb
+C:\Users\danil\source\repos\AbstractExercicesFix\AbstractExercicesFix\obj\Debug\net5.0\AbstractExercicesFix.genruntimeconfig.cache
